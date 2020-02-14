@@ -1,0 +1,2 @@
+include ':app', ':saminav'
+rootProject.name='Library'
