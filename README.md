@@ -26,10 +26,9 @@ Step 2 : Add the dependency
 <img src="https://dl.hamyarandroid.com/library/358/samiNav_3D.gif" width="300" height="555" />
 
 
-.
-<Enter>
-	.
-	<Enter>
+# Tutorial
+Full tutorial on [this link](https://hamyarandroid.com/tutorial/course-of-working-with-the-sami-nav-library) page
+(Persian Language)
 
 
 # Thanks to 
