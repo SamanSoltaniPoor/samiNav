@@ -27,9 +27,9 @@ Step 2 : Add the dependency
 
 
 # Tutorial
-Full tutorial on [this link](https://hamyarandroid.com/tutorial/course-of-working-with-the-sami-nav-library) page
+Full tutorial on [this page](https://hamyarandroid.com/tutorial/course-of-working-with-the-sami-nav-library)
 (Persian Language)
 
 
 # Thanks to 
-[AndroidResideMenu link](https://github.com/SpecialCyCi/AndroidResideMenu)
+[AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu)
