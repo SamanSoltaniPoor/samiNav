@@ -19,9 +19,12 @@ Step 2 : Add the dependency
 
 
 
-
 <Enter>
-
+<Enter>
+<Enter>
+<Enter>
+	
+	
 # DEMO
 <img src="https://dl.hamyarandroid.com/library/358/samiNav.gif" width="300" height="536" />
 <img src="https://dl.hamyarandroid.com/library/358/samiNav_Custom.png" width="300" height="536" />
