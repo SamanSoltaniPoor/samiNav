@@ -40,4 +40,4 @@ Step 2 : Add the dependency
 
 
 # Thanks to 
-[AndroidResideMenu][123456789]
+[AndroidResideMenu link](https://github.com/SpecialCyCi/AndroidResideMenu)
