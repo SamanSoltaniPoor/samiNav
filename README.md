@@ -20,16 +20,7 @@ Step 2 : Add the dependency
 
 
 
-
-
-
-
-
-
-
-
-
-
+<Enter>
 
 # DEMO
 <img src="https://dl.hamyarandroid.com/library/358/samiNav.gif" width="300" height="536" />
