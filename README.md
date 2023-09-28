@@ -1,3 +1,6 @@
+# samiNav
+This library helps you to build a professional Navigation Drawer on Android
+
 # Requirements
 API : 17 - Version : 4.2 - Name : Jelly Bean
 
